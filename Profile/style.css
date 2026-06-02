@@ -1,0 +1,38 @@
+#mainbox{
+    background-color: white;
+    border: 1px solid black;
+    height: 600px;
+    width: 500px;
+    border-radius: 20px;
+    position: relative;
+    
+}
+#background1{
+    background-color: rgb(58, 107, 199);
+    height: 200px;
+    border-radius:20px 20px 0px 0px;
+    border-bottom: 1px solid black;
+    
+}
+#background2{
+    background-color: whitesmoke;
+    height: 400px;
+    border-radius: 0px 0px 20px 20px;
+    border-bottom: 1px solid black;
+}
+
+#profile{
+    position: absolute;
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+    z-index: 5;  
+    top: 80px;
+    left: 150px;
+    right: 150px;
+    border-radius: 50%;
+    border:rgb(40, 76, 142) 10px solid ;
+    
+    background-image: url(cansu-sarp-r5PkFTR-7A0-unsplash.png);
+
+}
