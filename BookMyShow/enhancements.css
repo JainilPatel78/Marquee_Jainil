@@ -7,5 +7,6 @@
 @media(max-width:1400px){#header_container,#submenu_container,#poster_container,#movie_container,#card_container,#footer{width:100%}#header,#primier,#heading,#subheading,#pre_card_container,#text_container,#lang_con{max-width:1160px;width:92%}#poster_container{gap:16px}#poster{width:min(1160px,76vw)}}
 @media(max-width:1100px){#header{gap:14px;justify-content:center}#searchbar{width:min(52vw,560px)}#location{width:90px}#submenu{width:58%}#submenu2{width:34%}#movie_container{height:auto;padding:24px 4vw;flex-wrap:wrap}.box{width:210px;margin:8px}#card_container{height:auto;flex-wrap:wrap;padding:24px 4vw}#pre_card_container{overflow:hidden}}
 #header{gap:18px}
-/* Small refinement: navigation sits comfortably on smaller screens */
 @media(max-width:900px){#submenu_container{overflow:hidden}#submenu,#submenu2{width:auto;flex:1}}
+/* Improve mobile search and location balance */
+@media(max-width:700px){#searchbar{width:52vw}#location{width:78px;font-size:13px}}
