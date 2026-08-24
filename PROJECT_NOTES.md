@@ -35,3 +35,7 @@ The repository now includes a focused README and ignore rules so the project is 
 ## Next polish targets
 
 Future iterations can add real navigation behavior, movie filtering, and richer event interactions while keeping the current visual foundation.
+
+## Testing note
+
+The responsive styles should be checked at desktop, tablet, and phone widths after each visual change.
