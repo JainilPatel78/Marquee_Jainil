@@ -27,3 +27,7 @@ Hover states provide lightweight feedback on navigation items, movie cards, even
 ## Accessibility
 
 Semantic landmarks, descriptive labels, keyboard focus states, and reduced-motion handling are being used where practical.
+
+## Project hygiene
+
+The repository now includes a focused README and ignore rules so the project is easier to understand and maintain across machines.
