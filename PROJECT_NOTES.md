@@ -23,3 +23,7 @@ Large fixed presentation widths are progressively relaxed at tablet and mobile b
 ## Interaction details
 
 Hover states provide lightweight feedback on navigation items, movie cards, event cards, buttons, and the search area without changing the overall visual language.
+
+## Accessibility
+
+Semantic landmarks, descriptive labels, keyboard focus states, and reduced-motion handling are being used where practical.
