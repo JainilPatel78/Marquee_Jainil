@@ -19,3 +19,7 @@ The page is organized around a reusable visual rhythm: header, navigation, hero 
 ## Responsive approach
 
 Large fixed presentation widths are progressively relaxed at tablet and mobile breakpoints so the content can fit smaller screens without horizontal scrolling.
+
+## Interaction details
+
+Hover states provide lightweight feedback on navigation items, movie cards, event cards, buttons, and the search area without changing the overall visual language.
