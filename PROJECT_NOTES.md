@@ -43,3 +43,7 @@ The responsive styles should be checked at desktop, tablet, and phone widths aft
 ## Asset strategy
 
 Existing local media assets are retained so the page remains self-contained and does not depend on a remote image service.
+
+## Code organization
+
+The BookMyShow visual enhancements are kept separate from the original stylesheet, making the newer presentation layer easier to review or adjust.
