@@ -47,3 +47,7 @@ Existing local media assets are retained so the page remains self-contained and 
 ## Code organization
 
 The BookMyShow visual enhancements are kept separate from the original stylesheet, making the newer presentation layer easier to review or adjust.
+
+## Review checklist
+
+Before considering the page complete, verify layout, typography, image cropping, keyboard focus, and mobile overflow in a browser.
