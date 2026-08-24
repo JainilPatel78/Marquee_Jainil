@@ -52,5 +52,8 @@ body { color: var(--text); overflow-x: hidden; }
     #pre_card_container { overflow: hidden; }
 }
 
-/* Commit 1: soften the overall page surface */
-body { background: var(--surface); }
+/* Commit 2: improve header breathing room */
+#header { gap: 18px; }
+
+/* Commit 3: give the search area a softer edge */
+#searchbar { border: 1px solid rgba(255,255,255,.12); }
