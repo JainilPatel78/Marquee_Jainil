@@ -15,3 +15,7 @@ The interface uses a dark navy and coral palette, rounded cards, soft shadows, a
 ## Layout work
 
 The page is organized around a reusable visual rhythm: header, navigation, hero banner, movie collection, event collection, and premiere footer.
+
+## Responsive approach
+
+Large fixed presentation widths are progressively relaxed at tablet and mobile breakpoints so the content can fit smaller screens without horizontal scrolling.
