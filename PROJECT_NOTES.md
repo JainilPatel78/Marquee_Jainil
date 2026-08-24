@@ -39,3 +39,7 @@ Future iterations can add real navigation behavior, movie filtering, and richer 
 ## Testing note
 
 The responsive styles should be checked at desktop, tablet, and phone widths after each visual change.
+
+## Asset strategy
+
+Existing local media assets are retained so the page remains self-contained and does not depend on a remote image service.
