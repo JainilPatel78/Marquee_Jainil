@@ -31,3 +31,7 @@ Semantic landmarks, descriptive labels, keyboard focus states, and reduced-motio
 ## Project hygiene
 
 The repository now includes a focused README and ignore rules so the project is easier to understand and maintain across machines.
+
+## Next polish targets
+
+Future iterations can add real navigation behavior, movie filtering, and richer event interactions while keeping the current visual foundation.
