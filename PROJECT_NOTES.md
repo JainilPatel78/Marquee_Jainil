@@ -11,3 +11,7 @@ The BookMyShow page is being refined with cleaner spacing, card interactions, re
 ## Design direction
 
 The interface uses a dark navy and coral palette, rounded cards, soft shadows, and clear content sections inspired by modern entertainment platforms.
+
+## Layout work
+
+The page is organized around a reusable visual rhythm: header, navigation, hero banner, movie collection, event collection, and premiere footer.
